@@ -2,9 +2,9 @@ import json
 
 
 data = {
-    "nom": "Jean",
-    "age": 25,
-    "ville": "Paris"
+    "nom": "Jilali",
+    "age": 90,
+    "ville": "MARRAKECH"
 }
 
 with open("data.json", "w") as json_file:
